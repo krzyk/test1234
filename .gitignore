@@ -1,0 +1,8 @@
+*.mbz
+.venv/
+__pycache__/
+*.py[cod]
+.migration/
+.cache/
+**/site/
+_site/

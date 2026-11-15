@@ -1,0 +1,1163 @@
+{
+  "course": "algorytm i techniki programowania",
+  "stats": {
+    "resources": 46,
+    "exported_sections": 20,
+    "pages": 94,
+    "labels": 16,
+    "markdown_files": 161,
+    "book_chapters": 0,
+    "attachments": 77,
+    "hidden_activities": 56,
+    "unsupported_visible_activities": 4,
+    "withheld_for_review": 1,
+    "source_sections": 23,
+    "source_activities": 217,
+    "unresolved_references": 11
+  },
+  "targets": {
+    "1181": "00-wymagania-edukacyjne-s661/wymagania-edukacyjne-m1181.md",
+    "3312": "00-wymagania-edukacyjne-s661/bagaz-m3312.md",
+    "1078": "01-algorytmika-wprowadzenie-s662/wstep-do-algorytmiki-teoria-m1078.md",
+    "1079": "01-algorytmika-wprowadzenie-s662/algorytmy-liniowe-i-warunkowe-przyklady-m1079.md",
+    "1080": "01-algorytmika-wprowadzenie-s662/algorytmy-linowe-i-warunkowe-lista-zadan-m1080.md",
+    "1081": "01-algorytmika-wprowadzenie-s662/schematy-blokowe-wazne-uwagi-m1081.md",
+    "1083": "01-algorytmika-wprowadzenie-s662/algorytmy-iteracyjne-przyklady-m1083.md",
+    "1084": "01-algorytmika-wprowadzenie-s662/algorytmy-iteracyjne-lista-zadan-m1084.md",
+    "3100": "01-algorytmika-wprowadzenie-s662/pseudokod-m3100.md",
+    "1086": "01-algorytmika-wprowadzenie-s662/analiza-gotowych-algorytmow-m1086.md",
+    "1087": "01-algorytmika-wprowadzenie-s662/powtoka-analiza-schematow-m1087.md",
+    "1088": "01-algorytmika-wprowadzenie-s662/powtorka-rysowanie-schematow-m1088.md",
+    "1089": "01-algorytmika-wprowadzenie-s662/index.md",
+    "2617": "02-podstawy-programowania-w-c-s663/program-wstepny-w-c-sciagnij-i-skompiluj-m2617.md",
+    "1091": "02-podstawy-programowania-w-c-s663/jezyk-c-podstawy-m1091.md",
+    "1092": "02-podstawy-programowania-w-c-s663/podstawy-typy-danych-lista-zadan-1-m1092.md",
+    "3101": "02-podstawy-programowania-w-c-s663/operatory-lista-zadan-2-m3101.md",
+    "3133": "02-podstawy-programowania-w-c-s663/funkcje-matematyczne-wykorzystanie-biblioteki-m3133.md",
+    "1797": "02-podstawy-programowania-w-c-s663/c-11-niestandardowe-kontrukcje-m1797.md",
+    "1093": "03-instrukcja-warunkowa-s664/instrukcja-warunkowa-if-teoria-m1093.md",
+    "1094": "03-instrukcja-warunkowa-s664/if-lista-zadan-1-proste-zadania-na-lekcje-m1094.md",
+    "1095": "03-instrukcja-warunkowa-s664/if-lista-zadan-3-m1095.md",
+    "1792": "03-instrukcja-warunkowa-s664/podsumowanie-wiadomosci-if-inkrementacja-dekremantacja-wartosc-logiczna-wyrazenia-m1792.md",
+    "1099": "03-instrukcja-warunkowa-s664/przykladowe-pytania-testowe-na-czesc-testowa-sprawdzianu-z-if-m1099.md",
+    "1100": "03-instrukcja-warunkowa-s664/index.md",
+    "3102": "03-instrukcja-warunkowa-s664/instrukcja-wyboru-switch-m3102.md",
+    "3103": "03-instrukcja-warunkowa-s664/typ-wyliczeniowy-m3103.md",
+    "3105": "03-instrukcja-warunkowa-s664/switch-enum-lista-zadan-4-m3105.md",
+    "3104": "03-instrukcja-warunkowa-s664/index.md",
+    "3144": "03-instrukcja-warunkowa-s664/kody-ascii-m3144.md",
+    "1105": "04-instrukcje-iteracyjne-s670/pela-while-do-while-teoria-m1105.md",
+    "1106": "04-instrukcje-iteracyjne-s670/petla-while-do-while-lista-5-m1106.md",
+    "1107": "04-instrukcje-iteracyjne-s670/petla-for-teoria-podstawowa-m1107.md",
+    "1108": "04-instrukcje-iteracyjne-s670/petla-for-lista-6-m1108.md",
+    "3107": "04-instrukcje-iteracyjne-s670/instrukcja-break-continue-m3107.md",
+    "1863": "04-instrukcje-iteracyjne-s670/index.md",
+    "1109": "04-instrukcje-iteracyjne-s670/petle-rozne-lista-7-m1109.md",
+    "2695": "04-instrukcje-iteracyjne-s670/krotki-zestaw-powtorzeniowy-ze-wskazowkami-m2695.md",
+    "1110": "04-instrukcje-iteracyjne-s670/petle-przykladowe-pytania-testowe-analiza-kodu-m1110.md",
+    "2106": "04-instrukcje-iteracyjne-s670/zadania-tekstowe-wykorzystujace-petle-m2106.md",
+    "3108": "04-instrukcje-iteracyjne-s670/index.md",
+    "1111": "04-instrukcje-iteracyjne-s670/petla-w-petli-teoria-m1111.md",
+    "1112": "04-instrukcje-iteracyjne-s670/petla-w-petli-lista-8-m1112.md",
+    "3109": "04-instrukcje-iteracyjne-s670/index.md",
+    "3313": "04-instrukcje-iteracyjne-s670/losowanie-teoria-i-przyklady-m3313.md",
+    "2700": "04-instrukcje-iteracyjne-s670/losowanie-lista-9-m2700.md",
+    "1119": "05-funkcje-budowanie-wlasnych-podprogramow-s666/funkcje-teoria-m1119.md",
+    "1120": "05-funkcje-budowanie-wlasnych-podprogramow-s666/funkcje-krok-po-kroku-z-przykladami-m1120.md",
+    "2792": "05-funkcje-budowanie-wlasnych-podprogramow-s666/funkcje-zadania-lista-0-m2792.md",
+    "1121": "05-funkcje-budowanie-wlasnych-podprogramow-s666/podprogramy-zadania-1-m1121.md",
+    "1122": "05-funkcje-budowanie-wlasnych-podprogramow-s666/podprogramy-zadania-2-m1122.md",
+    "1123": "05-funkcje-budowanie-wlasnych-podprogramow-s666/podprogramy-zadania-3-m1123.md",
+    "1441": "05-funkcje-budowanie-wlasnych-podprogramow-s666/przygotowanie-do-testu-m1441.md",
+    "3252": "05-funkcje-budowanie-wlasnych-podprogramow-s666/teoria-funkcje-2-przeladowanie-funkcje-inline-m3252.md",
+    "1124": "05-funkcje-budowanie-wlasnych-podprogramow-s666/index.md",
+    "3238": "05-funkcje-budowanie-wlasnych-podprogramow-s666/funkcje-algorytmy-do-realizacji-na-lekcji-m3238.md",
+    "1127": "06-tablice-statyczne-s667/tablice-teoria-m1127.md",
+    "2737": "06-tablice-statyczne-s667/tablica-lista-zadan-1a-m2737.md",
+    "1128": "06-tablice-statyczne-s667/tablice-zadania-lista-1-m1128.md",
+    "1131": "06-tablice-statyczne-s667/tablice-zadania-lista-2-m1131.md",
+    "1893": "06-tablice-statyczne-s667/index.md",
+    "3205": "06-tablice-statyczne-s667/schody-m3205.md",
+    "1132": "06-tablice-statyczne-s667/przygotowanie-do-kartkowki-z-tablic-m1132.md",
+    "1133": "06-tablice-statyczne-s667/przygotowanie-do-kartkowki-z-tablic-rozwiazanie-m1133.md",
+    "3240": "06-tablice-statyczne-s667/index.md",
+    "3239": "06-tablice-statyczne-s667/tablice-algorytmy-do-realizacji-na-lekcji-m3239.md",
+    "3211": "07-c-zagadnienia-teoretyczne-s669/od-pliku-zrodlowego-do-wykonywalnego-m3211.md",
+    "3213": "07-c-zagadnienia-teoretyczne-s669/zadania-1-m3213.md",
+    "3212": "07-c-zagadnienia-teoretyczne-s669/zmienne-wskaznikowe-m3212.md",
+    "3236": "07-c-zagadnienia-teoretyczne-s669/zadania-2-wskazniki-m3236.md",
+    "3233": "08-dynamiczna-alokacja-pamieci-s855/stos-a-sterta-m3233.md",
+    "3234": "08-dynamiczna-alokacja-pamieci-s855/zmienne-alokowane-dynamicznie-m3234.md",
+    "3235": "08-dynamiczna-alokacja-pamieci-s855/tablice-dynamiczne-m3235.md",
+    "3220": "09-tablice-dwuwymiarowe-s854/teoria-m3220.md",
+    "3222": "09-tablice-dwuwymiarowe-s854/lista-1-m3222.md",
+    "3224": "09-tablice-dwuwymiarowe-s854/lista-2-m3224.md",
+    "3227": "09-tablice-dwuwymiarowe-s854/index.md",
+    "3231": "09-tablice-dwuwymiarowe-s854/zadanie-temperatury-m3231.md",
+    "3229": "09-tablice-dwuwymiarowe-s854/zadanie-temperatury-tabelka-do-wczytania-m3229.md",
+    "3226": "09-tablice-dwuwymiarowe-s854/zadanie-wyplaty-realizacja-algorytmu-zachlannego-m3226.md",
+    "3228": "09-tablice-dwuwymiarowe-s854/index.md",
+    "3230": "09-tablice-dwuwymiarowe-s854/zadanie-hetman-m3230.md",
+    "3225": "09-tablice-dwuwymiarowe-s854/zadanie-piramida-m3225.md",
+    "3232": "09-tablice-dwuwymiarowe-s854/hetman-rozwiazanie-m3232.md",
+    "3296": "09-tablice-dwuwymiarowe-s854/index.md",
+    "3297": "09-tablice-dwuwymiarowe-s854/przykladowy-sprawdzian-m3297.md",
+    "3367": "10-algorytmy-na-liczbach-naturalnych-s864/dzielniki-m3367.md",
+    "3370": "10-algorytmy-na-liczbach-naturalnych-s864/liczby-doskonale-m3370.md",
+    "3366": "10-algorytmy-na-liczbach-naturalnych-s864/liczby-skojarzone-dzielniki-m3366.md",
+    "3369": "10-algorytmy-na-liczbach-naturalnych-s864/suma-cyfr-liczby-m3369.md",
+    "3368": "10-algorytmy-na-liczbach-naturalnych-s864/wesole-liczby-m3368.md",
+    "3241": "11-rekurencja-s856/teoria-m3241.md",
+    "3294": "11-rekurencja-s856/analiza-funkcji-wypisujacych-i-odwracajacych-znaki-m3294.md",
+    "3242": "11-rekurencja-s856/ciagi-m3242.md",
+    "3244": "11-rekurencja-s856/zadanie-1-korale-m3244.md",
+    "3245": "11-rekurencja-s856/zadanie-2-lotto-m3245.md",
+    "3246": "11-rekurencja-s856/zadanie-3-ciag-rekurencyjny-tylko-1-1-m3246.md",
+    "3247": "11-rekurencja-s856/zadanie-4-ciekawe-mnozenia-tylko-3-1-i-3-2-m3247.md",
+    "3243": "11-rekurencja-s856/zadanie-5-szybkie-potegowanie-m3243.md",
+    "3248": "11-rekurencja-s856/zadanie-6-maturalne-funkcja-licz-m3248.md",
+    "3249": "12-wstep-do-programowania-obiektowego-s857/teoria-czyli-krotka-opowiesc-o-tym-co-to-klasa-a-co-obiekt-m3249.md",
+    "3250": "12-wstep-do-programowania-obiektowego-s857/przyklad-1-klasa-tylko-z-publicznym-dostepem-m3250.md",
+    "3301": "12-wstep-do-programowania-obiektowego-s857/klasa-przypominajka-m3301.md",
+    "3251": "12-wstep-do-programowania-obiektowego-s857/przyklad-2-hermetyzacja-konstruktor-kopiujacy-i-destruktor-m3251.md",
+    "3253": "12-wstep-do-programowania-obiektowego-s857/przyklad-3-definiowanie-funkcji-skladowych-2-sposob-m3253.md",
+    "3254": "12-wstep-do-programowania-obiektowego-s857/lista-1-m3254.md",
+    "3261": "12-wstep-do-programowania-obiektowego-s857/przyklad-4-statyczny-skladnik-klasy-m3261.md",
+    "3255": "12-wstep-do-programowania-obiektowego-s857/lista-2-m3255.md",
+    "3256": "12-wstep-do-programowania-obiektowego-s857/lista-3-zadanie-m3256.md",
+    "3302": "12-wstep-do-programowania-obiektowego-s857/podzial-projektu-na-3-pliki-m3302.md",
+    "3379": "12-wstep-do-programowania-obiektowego-s857/obiekt-jako-pole-w-innej-klasie-m3379.md",
+    "3380": "12-wstep-do-programowania-obiektowego-s857/zadanie-domowe-obiekt-jako-pole-innej-klasy-m3380.md",
+    "3319": "13-kontenery-s860/vector-teoria-i-cwiczenia-m3319.md",
+    "3317": "13-kontenery-s860/kontenery-m3317.md",
+    "3320": "13-kontenery-s860/set-teoria-i-cwiczenia-m3320.md",
+    "3321": "13-kontenery-s860/map-teoria-i-cwiczenia-m3321.md",
+    "3318": "13-kontenery-s860/lista-zadan-vector-set-m3318.md",
+    "3257": "14-obsluga-plikow-s858/przyklad-program-wzorcowy-m3257.md",
+    "3258": "14-obsluga-plikow-s858/lista-1-pliki-z-jedna-kolumna-m3258.md",
+    "3260": "14-obsluga-plikow-s858/lista-2-m3260.md",
+    "3259": "14-obsluga-plikow-s858/pliki-do-listy-2-m3259.md",
+    "3262": "15-klasa-string-s859/napisy-teoria-m3262.md",
+    "3263": "15-klasa-string-s859/lista-1-wykorzystanie-metod-klasy-string-m3263.md",
+    "1117": "15-klasa-string-s859/index.md",
+    "1896": "15-klasa-string-s859/przestarzale-tablice-znakowe-char-teoria-i-zadania-m1896.md",
+    "3311": "15-klasa-string-s859/index.md",
+    "3271": "15-klasa-string-s859/szyfrowanie-teoria-m3271.md",
+    "3264": "15-klasa-string-s859/lista-2-szyfrowanie-i-systemy-pozycyjne-m3264.md",
+    "3270": "15-klasa-string-s859/zadanie-maturalne-szyfr-przestawieniowy-iinformatyka-m3270.md",
+    "3269": "15-klasa-string-s859/index.md",
+    "3266": "15-klasa-string-s859/lista-3-palindromy-palindromy-na-kodach-ascii-cyfrowe-m3266.md",
+    "3279": "15-klasa-string-s859/plik-do-zadania-z-palindromem-na-kodach-ascii-m3279.md",
+    "3268": "15-klasa-string-s859/zadanie-genotyp-m3268.md",
+    "3272": "15-klasa-string-s859/lista-4-anagramy-m3272.md",
+    "3275": "15-klasa-string-s859/zadanie-maturalne-3-palindrom-z-przesunieciem-m3275.md",
+    "3277": "15-klasa-string-s859/zadanie-maturalne-4-wega-m3277.md",
+    "3278": "15-klasa-string-s859/sygnaly-plik-do-zadania-wega-m3278.md",
+    "3281": "15-klasa-string-s859/index.md",
+    "3280": "15-klasa-string-s859/lista-5-m3280.md",
+    "3282": "15-klasa-string-s859/pliki-trojkowe-txt-i-abc-txt-m3282.md",
+    "3329": "16-zlozonosc-obliczeniowa-s671/teoria-m3329.md",
+    "3330": "16-zlozonosc-obliczeniowa-s671/jak-wyznaczyc-liczbe-operacji-dominujacych-m3330.md",
+    "3332": "16-zlozonosc-obliczeniowa-s671/lista-algorytmow-m3332.md",
+    "3331": "16-zlozonosc-obliczeniowa-s671/zadania-m3331.md",
+    "3346": "16-zlozonosc-obliczeniowa-s671/zadanie-maturalne-potegi-maj-2008-m3346.md",
+    "3347": "16-zlozonosc-obliczeniowa-s671/zadanie-maturalne-prostokaty-maj-2017-m3347.md",
+    "3348": "16-zlozonosc-obliczeniowa-s671/zadanie-maturalne-liczby-osiagalne-maj-2012-m3348.md",
+    "3340": "17-algorytmy-s861/bisekcja-m3340.md",
+    "3342": "17-algorytmy-s861/bisekcja-zadanie-maturalne-m3342.md",
+    "3341": "17-algorytmy-s861/wyszukiwanie-binarne-m3341.md",
+    "3351": "18-algorytmy-s862/schemat-hornera-m3351.md",
+    "3352": "18-algorytmy-s862/zamiana-sys-liczbowych-ze-schematem-hornera-m3352.md",
+    "3353": "18-algorytmy-s862/podzielnosc-zad-matur-m3353.md",
+    "3354": "18-algorytmy-s862/schemat-hornera-i-zamiana-sys-liczbowych-m3354.md",
+    "3359": "19-algorytmy-calka-numeryczna-s863/calka-numeryczna-m3359.md",
+    "3360": "19-algorytmy-calka-numeryczna-s863/zadanie-figura-maturalne-m3360.md",
+    "section-661": "00-wymagania-edukacyjne-s661/index.md",
+    "section-662": "01-algorytmika-wprowadzenie-s662/index.md",
+    "section-663": "02-podstawy-programowania-w-c-s663/index.md",
+    "section-664": "03-instrukcja-warunkowa-s664/index.md",
+    "section-670": "04-instrukcje-iteracyjne-s670/index.md",
+    "section-666": "05-funkcje-budowanie-wlasnych-podprogramow-s666/index.md",
+    "section-667": "06-tablice-statyczne-s667/index.md",
+    "section-669": "07-c-zagadnienia-teoretyczne-s669/index.md",
+    "section-855": "08-dynamiczna-alokacja-pamieci-s855/index.md",
+    "section-854": "09-tablice-dwuwymiarowe-s854/index.md",
+    "section-864": "10-algorytmy-na-liczbach-naturalnych-s864/index.md",
+    "section-856": "11-rekurencja-s856/index.md",
+    "section-857": "12-wstep-do-programowania-obiektowego-s857/index.md",
+    "section-860": "13-kontenery-s860/index.md",
+    "section-858": "14-obsluga-plikow-s858/index.md",
+    "section-859": "15-klasa-string-s859/index.md",
+    "section-671": "16-zlozonosc-obliczeniowa-s671/index.md",
+    "section-861": "17-algorytmy-s861/index.md",
+    "section-862": "18-algorytmy-s862/index.md",
+    "section-863": "19-algorytmy-calka-numeryczna-s863/index.md"
+  },
+  "attachments": [
+    {
+      "file_id": "15460",
+      "path": "assets/m2-algorytmy-i-techniki-programowania-tp-5-wymagania-edukacyjne-kl1-2024-f15460.pdf",
+      "mimetype": "application/pdf",
+      "license": "allrightsreserved",
+      "sha256": "5c1fc877ae7304effb18edccae45ad30d6b9d24df7d968dc68ffaa3db90695fb"
+    },
+    {
+      "file_id": "16231",
+      "path": "assets/bagaz-f16231.txt",
+      "mimetype": "text/plain",
+      "license": "allrightsreserved",
+      "sha256": "24019fecf175780f4c62859ed57af591d82d00a2bf6c2c9d6c744381de76e885"
+    },
+    {
+      "file_id": "2335",
+      "path": "assets/typyalgorytmow-f2335.jpg",
+      "mimetype": "image/jpeg",
+      "license": "allrightsreserved",
+      "sha256": "9b6608a55ec53bd07c48e8517165de56f65a4145ec84246450e2a6215475e618"
+    },
+    {
+      "file_id": "2337",
+      "path": "assets/liniowy-f2337.jpg",
+      "mimetype": "image/jpeg",
+      "license": "allrightsreserved",
+      "sha256": "04fec8278a5f37889eac033d18cd09a041299e05ac9dad78fc7018c55e9ead6a"
+    },
+    {
+      "file_id": "2339",
+      "path": "assets/warunkowy-f2339.jpg",
+      "mimetype": "image/jpeg",
+      "license": "allrightsreserved",
+      "sha256": "facfc3ac806d20bc8a7ff41031fff691c16b249b219cfee2e502ac5c1e359b2c"
+    },
+    {
+      "file_id": "2340",
+      "path": "assets/warunkowy2-f2340.png",
+      "mimetype": "image/png",
+      "license": "allrightsreserved",
+      "sha256": "f15e1ca93c9a40e89afb6ef2d74095806f8cb9ce55dec5d062bbf00a831f203d"
+    },
+    {
+      "file_id": "2341",
+      "path": "assets/warunkowy3-f2341.png",
+      "mimetype": "image/png",
+      "license": "allrightsreserved",
+      "sha256": "fac398b54bc0a1eee0e7a1ac18e9b65536de28910a0187b5010f8457cbe988e1"
+    },
+    {
+      "file_id": "2343",
+      "path": "assets/warunkowy2-f2343.png",
+      "mimetype": "image/png",
+      "license": "allrightsreserved",
+      "sha256": "f15e1ca93c9a40e89afb6ef2d74095806f8cb9ce55dec5d062bbf00a831f203d"
+    },
+    {
+      "file_id": "2346",
+      "path": "assets/iteracyjny1-f2346.jpg",
+      "mimetype": "image/jpeg",
+      "license": "allrightsreserved",
+      "sha256": "7c197f413074960f2c9464e5460ec0e2798db288587a2c7e5230d0785dc13a3e"
+    },
+    {
+      "file_id": "2347",
+      "path": "assets/iteracyjny2-f2347.jpg",
+      "mimetype": "image/jpeg",
+      "license": "allrightsreserved",
+      "sha256": "3657628a76bd95f794b644d4298a5f645fcc5da8a555e0e348fb3f4148c65233"
+    },
+    {
+      "file_id": "2344",
+      "path": "assets/iteracyjny3-f2344.jpg",
+      "mimetype": "image/jpeg",
+      "license": "allrightsreserved",
+      "sha256": "933e65f9995e953406c3c9f784d84a3b4341a7346ea567dc35c6907e3fc48906"
+    },
+    {
+      "file_id": "15464",
+      "path": "assets/pseudokod-matura-f15464.png",
+      "mimetype": "image/png",
+      "license": "public",
+      "sha256": "402a1092c5327498dbb11c90484155666f103124863a4bd83f815296f0fa1d67"
+    },
+    {
+      "file_id": "15466",
+      "path": "assets/pseudokod-2-f15466.png",
+      "mimetype": "image/png",
+      "license": "public",
+      "sha256": "1d25455dc1a12d50427871cf41bd69dc9732a0ceeb69aee95bd764e21c91cce7"
+    },
+    {
+      "file_id": "2348",
+      "path": "assets/lista-f2348.jpg",
+      "mimetype": "image/jpeg",
+      "license": "allrightsreserved",
+      "sha256": "4ccefeb4be8fc0a546e12bc04d1a178d89a8c0859b9d1bc17234b23686fbe152"
+    },
+    {
+      "file_id": "2350",
+      "path": "assets/schemat-euklidesa-f2350.jpg",
+      "mimetype": "image/jpeg",
+      "license": "allrightsreserved",
+      "sha256": "cf1c0c7578357943cdb27aa0207bdb7874ac7508f6e26dad07455184b458f779"
+    },
+    {
+      "file_id": "2351",
+      "path": "assets/analiza-f2351.jpg",
+      "mimetype": "image/jpeg",
+      "license": "allrightsreserved",
+      "sha256": "dd22b8e300fadfa08f1c05c129219ba435c570a6cdeb6716a2926c7e44aaec3a"
+    },
+    {
+      "file_id": "2352",
+      "path": "assets/powtorka-schematy-blokowe-f2352.doc",
+      "mimetype": "application/msword",
+      "license": "allrightsreserved",
+      "sha256": "ee15f068ade5fc40b8ac830bc90c6af82f3b0a75259db1251cead5a5c83957ff"
+    },
+    {
+      "file_id": "12840",
+      "path": "assets/zebranywstep-f12840.cpp",
+      "mimetype": "text/plain",
+      "license": "allrightsreserved",
+      "sha256": "3162f453fce5b7528008004a5c01d3e39292a0fcd935f224b666cc641ddda1e5"
+    },
+    {
+      "file_id": "15569",
+      "path": "assets/aaa-f15569.jpg",
+      "mimetype": "image/jpeg",
+      "license": "public",
+      "sha256": "aa7a9ba011ef6f2e83497f39822d482a86c898083612dd5e9c20b472e63cf6df"
+    },
+    {
+      "file_id": "15553",
+      "path": "assets/buty-meskie-rylko-trzewiki-skorzane-licowe-czarne-kolor-czarny-f15553.jpeg",
+      "mimetype": "image/jpeg",
+      "license": "public",
+      "sha256": "ba949a7b45b119f12545ee1585013eb8eff0a78027656a106635d8fbf8c90d35"
+    },
+    {
+      "file_id": "2354",
+      "path": "assets/pierwiastek-f2354.jpg",
+      "mimetype": "image/jpeg",
+      "license": "allrightsreserved",
+      "sha256": "72884956eb97ead945b9b0c76a0ede30abccdd8fbf8f7ec134bee49740612b15"
+    },
+    {
+      "file_id": "13211",
+      "path": "assets/zadaniadodatkowe-f13211.pdf",
+      "mimetype": "application/pdf",
+      "license": "allrightsreserved",
+      "sha256": "a74ca4966d06f121c8651d3adb43b2c07b20955b274ef0c56317056b8d05edcf"
+    },
+    {
+      "file_id": "2370",
+      "path": "assets/while-f2370.jpg",
+      "mimetype": "image/jpeg",
+      "license": "allrightsreserved",
+      "sha256": "8808674c640be93d9318250593e24895d6cbd609b02816a74526395a74cc76bb"
+    },
+    {
+      "file_id": "7831",
+      "path": "assets/wykres-f7831.jpg",
+      "mimetype": "image/jpeg",
+      "license": "allrightsreserved",
+      "sha256": "c948adacd460206edddf7112ce7a847ea288c1d437cb46a33e9df1f180edf2fc"
+    },
+    {
+      "file_id": "2372",
+      "path": "assets/zagniezdzone-instrukcje-iteracyjne-f2372.pdf",
+      "mimetype": "application/pdf",
+      "license": "allrightsreserved",
+      "sha256": "e116fd3c2beed35451558d6f46c759fe447942d8c3d090d1889ce6b162312555"
+    },
+    {
+      "file_id": "13235",
+      "path": "assets/losowanie-zadania-f13235.pdf",
+      "mimetype": "application/pdf",
+      "license": "allrightsreserved",
+      "sha256": "32e2774d5d48fc2bbd4c017429f306604348c1db595cfb98ec6e2df85c46f7e7"
+    },
+    {
+      "file_id": "2383",
+      "path": "assets/teoria-fun-f2383.docx",
+      "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "license": "allrightsreserved",
+      "sha256": "e5d7e00b2fed27b712ca2d1149c59256d3c943e758a750289e32bc46c69b5557"
+    },
+    {
+      "file_id": "13785",
+      "path": "assets/funkcje-zestaw0-f13785.pdf",
+      "mimetype": "application/pdf",
+      "license": "allrightsreserved",
+      "sha256": "3146fbe4a1307f6b9f146898119044bdede656edb2276cd51b0565500afdc6a9"
+    },
+    {
+      "file_id": "2385",
+      "path": "assets/funkcja-f2385.png",
+      "mimetype": "image/png",
+      "license": "allrightsreserved",
+      "sha256": "30306716715e0dcf5dea5440fcc0af2a3dcd9ac45df1ec731a1c1a7c31f0112f"
+    },
+    {
+      "file_id": "15909",
+      "path": "assets/schody-probna2012pti-ppodstawowy-f15909.pdf",
+      "mimetype": "application/pdf",
+      "license": "allrightsreserved",
+      "sha256": "b8184167fab1a17ca40515d22e0b7b1522534c98ca528a91e88c73b8d89e9e50"
+    },
+    {
+      "file_id": "2391",
+      "path": "assets/przygotowanie-do-spr-tablice-f2391.docx",
+      "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "license": "allrightsreserved",
+      "sha256": "79ae0b0cd55f09ca7ad8a874c2c785999dcacf6e31c29b413f9936a099d401a8"
+    },
+    {
+      "file_id": "6123",
+      "path": "assets/przygotowanie-do-spr-tablice-odpowiedzi-f6123.docx",
+      "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "license": "allrightsreserved",
+      "sha256": "5bb7aba89fd71fb659dae1c15a285843c5d066b5b830ca64b6ab3d8ea15f7316"
+    },
+    {
+      "file_id": "15956",
+      "path": "assets/temperatury-f15956.pdf",
+      "mimetype": "application/pdf",
+      "license": "allrightsreserved",
+      "sha256": "f7ef3cff7cc2d2f682d809ea09c6ba4333b22ea327dbec98618683fd9ba70ddc"
+    },
+    {
+      "file_id": "15952",
+      "path": "assets/hetman-f15952.pdf",
+      "mimetype": "application/pdf",
+      "license": "allrightsreserved",
+      "sha256": "69f3b31677e2dea43a7df1242ba2c9b34cd565c6874004877f28c06585198f23"
+    },
+    {
+      "file_id": "15949",
+      "path": "assets/piramida-f15949.pdf",
+      "mimetype": "application/pdf",
+      "license": "allrightsreserved",
+      "sha256": "acbfde0aa97e53aea7d07143e5836da20521e99595ef61070e8c8913cdab3233"
+    },
+    {
+      "file_id": "15962",
+      "path": "assets/hetman-f15962.cpp",
+      "mimetype": "text/plain",
+      "license": "allrightsreserved",
+      "sha256": "79b0f191882cb7dfa526a42340c07faedbf0001397740d39c03f017bd35b4da1"
+    },
+    {
+      "file_id": "16177",
+      "path": "assets/tablice-dwuwymiarowe-sprawdzian-v1-f16177.doc",
+      "mimetype": "application/msword",
+      "license": "allrightsreserved",
+      "sha256": "d205545fce3a8a015663b6c7125a0987d3aaf2661330ad75c49cd52235160f5d"
+    },
+    {
+      "file_id": "16546",
+      "path": "assets/dzielniki-styczen2003-f16546.pdf",
+      "mimetype": "application/pdf",
+      "license": "allrightsreserved",
+      "sha256": "820f178ae7deaa3d0e5004abf57470d5132cf987a087630da7760845d1c1b60e"
+    },
+    {
+      "file_id": "16542",
+      "path": "assets/2016majrozszerzona-liczbyskojarzone-f16542.pdf",
+      "mimetype": "application/pdf",
+      "license": "allrightsreserved",
+      "sha256": "82de6ee300756b938728b31818d24711baeecd7fa9c01747f2493eb3c56693a6"
+    },
+    {
+      "file_id": "16550",
+      "path": "assets/wesole-liuczby-pp-a2-2012-f16550.pdf",
+      "mimetype": "application/pdf",
+      "license": "allrightsreserved",
+      "sha256": "157ddfe0d4f7fa433411d3589d6b4279658561585d022ad77015d5eacb7df065"
+    },
+    {
+      "file_id": "15979",
+      "path": "assets/ciag-2-f15979.jpg",
+      "mimetype": "image/jpeg",
+      "license": "public",
+      "sha256": "7cc0b2508738d78b614b53141977a94d4f7e80d0a795c80da5b588d79566ff56"
+    },
+    {
+      "file_id": "15981",
+      "path": "assets/ciag1-f15981.jpg",
+      "mimetype": "image/jpeg",
+      "license": "public",
+      "sha256": "5234d628129a57ee0ee4cb93f0b5a9cbccf122ee109f147fadf1f4be58eeebc5"
+    },
+    {
+      "file_id": "15982",
+      "path": "assets/ciag3-f15982.jpeg",
+      "mimetype": "image/jpeg",
+      "license": "public",
+      "sha256": "517e894410afba8057db0078fd288c4576be2c4715b864901088a109eb24d60a"
+    },
+    {
+      "file_id": "15989",
+      "path": "assets/korale-f15989.pdf",
+      "mimetype": "application/pdf",
+      "license": "allrightsreserved",
+      "sha256": "41fb9714c366cbf5b2fa414d7d2ffa4d6a457dc5923538f3be7310d72cdb38de"
+    },
+    {
+      "file_id": "15993",
+      "path": "assets/lotto-f15993.pdf",
+      "mimetype": "application/pdf",
+      "license": "allrightsreserved",
+      "sha256": "3f3b0290e04ef5c20fc25d598be419a44dc1ba344edff3eb0ddffbb96edba2d3"
+    },
+    {
+      "file_id": "15997",
+      "path": "assets/ciag-rek-f15997.pdf",
+      "mimetype": "application/pdf",
+      "license": "allrightsreserved",
+      "sha256": "1809245cfec325278ae73febb44f386fbae510e76295e41280d811ef94c1859c"
+    },
+    {
+      "file_id": "16001",
+      "path": "assets/ciekawemnozenia-f16001.pdf",
+      "mimetype": "application/pdf",
+      "license": "allrightsreserved",
+      "sha256": "54e3af8ce2c9ba1d0c95147be5779b1647ab68d7b8e0c67edb5c1bdc02987f87"
+    },
+    {
+      "file_id": "15985",
+      "path": "assets/szybkiepotegowanie-f15985.pdf",
+      "mimetype": "application/pdf",
+      "license": "allrightsreserved",
+      "sha256": "0ec01502d1cd4eb2a43fad22bc819f0a1ddec2e6f7e1bc36c539519ccacc748e"
+    },
+    {
+      "file_id": "16005",
+      "path": "assets/2017-rekurencja-3-f16005.pdf",
+      "mimetype": "application/pdf",
+      "license": "allrightsreserved",
+      "sha256": "268f04ded2191b817ca8b4de95db2caf80fef712ee7694a64f19c1a77f6b6936"
+    },
+    {
+      "file_id": "16011",
+      "path": "assets/polecenia-f16011.pdf",
+      "mimetype": "application/pdf",
+      "license": "allrightsreserved",
+      "sha256": "ae3abc9634db84258f565764a7f56e994c93971c9858c52807a0a4498122c4b0"
+    },
+    {
+      "file_id": "16630",
+      "path": "assets/zadanie-komputer-i-procesor-f16630.pdf",
+      "mimetype": "application/pdf",
+      "license": "allrightsreserved",
+      "sha256": "b76025b23a3ae8592f3723adb2909b8c3e67dc5123b0f62648099b799143cfc9"
+    },
+    {
+      "file_id": "16018",
+      "path": "assets/polecenia-f16018.pdf",
+      "mimetype": "application/pdf",
+      "license": "allrightsreserved",
+      "sha256": "11ff1b22423c9759b5576743847e76d516658176135e76758a9fddabab3eb7a0"
+    },
+    {
+      "file_id": "16014",
+      "path": "assets/pliki-f16014.zip",
+      "mimetype": "application/zip",
+      "license": "allrightsreserved",
+      "sha256": "f93b5beb9606b6874e8ea0b4abbeca6396a0c17b3c778c47ed2f49229fa8ca68"
+    },
+    {
+      "file_id": "16034",
+      "path": "assets/szyfrinformatykaprobnappodstawowy-f16034.pdf",
+      "mimetype": "application/pdf",
+      "license": "allrightsreserved",
+      "sha256": "35dbe195ecdbd2f575290d7bf98c585f4c2e2bada36191b13c37865c2f74599e"
+    },
+    {
+      "file_id": "16064",
+      "path": "assets/liczby-f16064.txt",
+      "mimetype": "text/plain",
+      "license": "allrightsreserved",
+      "sha256": "176e3bfd2cdf391f7592284aa07ce78195570a5b3f4d0e2fe366a19ac4234cf1"
+    },
+    {
+      "file_id": "16030",
+      "path": "assets/genotyp-f16030.zip",
+      "mimetype": "application/zip",
+      "license": "allrightsreserved",
+      "sha256": "cf9e3b128641e6196a1afe3bc98c049b7ebfbff162cc10fd0640c19e4bb6987f"
+    },
+    {
+      "file_id": "16046",
+      "path": "assets/palindrom-zprzesunieciem-pti-f16046.pdf",
+      "mimetype": "application/pdf",
+      "license": "allrightsreserved",
+      "sha256": "73dda5dcae844f1a409b27f59710a4e383e56086e59803ca4a5d63f1817cd062"
+    },
+    {
+      "file_id": "16054",
+      "path": "assets/wega-sygnaly-f16054.pdf",
+      "mimetype": "application/pdf",
+      "license": "allrightsreserved",
+      "sha256": "b5ec6e191415fd832da0b3b4f23502d12c0965927c0f165bdba78c7b4b1cbd77"
+    },
+    {
+      "file_id": "16058",
+      "path": "assets/sygnaly-f16058.txt",
+      "mimetype": "text/plain",
+      "license": "allrightsreserved",
+      "sha256": "9e721e99a16400f85ddc52b106d8cd19b1cf205ee57716d82c5393cb8ab11661"
+    },
+    {
+      "file_id": "16068",
+      "path": "assets/trojkowe-abc-f16068.zip",
+      "mimetype": "application/zip",
+      "license": "allrightsreserved",
+      "sha256": "6c15500ee97c341681f78fc2a076ceb1b41123342a060a84fdfb68b2301ed508"
+    },
+    {
+      "file_id": "16316",
+      "path": "assets/1-iebd3x2s5koiei6zoltp9w-f16316.png",
+      "mimetype": "image/png",
+      "license": "public",
+      "sha256": "49ee42afa9a6c130671a4724c43bffa4edbab004d896ed732473fae3006cf609"
+    },
+    {
+      "file_id": "16318",
+      "path": "assets/material-f16318.jpg",
+      "mimetype": "image/jpeg",
+      "license": "public",
+      "sha256": "9003df9072848f35ef371aa94236f930c59b7452f8affa8d3c2bf41bf78861f8"
+    },
+    {
+      "file_id": "16321",
+      "path": "assets/zlozonosc-teoria-w-praktyce-f16321.doc",
+      "mimetype": "application/msword",
+      "license": "allrightsreserved",
+      "sha256": "e8b91ab52c349245248df85e7dee2364072a8729bb0c13bb5f416105bfcea7ca"
+    },
+    {
+      "file_id": "16435",
+      "path": "assets/potegi-f16435.pdf",
+      "mimetype": "application/pdf",
+      "license": "allrightsreserved",
+      "sha256": "66b9bf56d797946d6f607984b7c2816e97e921efef7fbc1a93df5089f05dd89b"
+    },
+    {
+      "file_id": "16443",
+      "path": "assets/informatyka-2017-maj-matura-rozszerzona-f16443.pdf",
+      "mimetype": "application/pdf",
+      "license": "allrightsreserved",
+      "sha256": "73bc326d4307c0aaac8899d36e6295e9ee964670349f6da86182b5beabdd9416"
+    },
+    {
+      "file_id": "16447",
+      "path": "assets/liczbyosiagalnemaj2012rozszerzony-f16447.pdf",
+      "mimetype": "application/pdf",
+      "license": "allrightsreserved",
+      "sha256": "f6b57bbb6a7019e5d4dc42012ff08441278e9b74e3485dfa5a291b49bb3a8fec"
+    },
+    {
+      "file_id": "16408",
+      "path": "assets/bisekcja-f16408.png",
+      "mimetype": "image/png",
+      "license": "allrightsreserved",
+      "sha256": "1de2286238e3f1899e29f5a8fb83e68fe509b53e070eccd5f16f80ae34531ba7"
+    },
+    {
+      "file_id": "16412",
+      "path": "assets/bisekcja-rozszerzona-2014-f16412.pdf",
+      "mimetype": "application/pdf",
+      "license": "allrightsreserved",
+      "sha256": "77c2bcb9d3317aaa1d121bcf2cb0ff3739f0be07200cc7437afbab71f3a1c9b0"
+    },
+    {
+      "file_id": "16465",
+      "path": "assets/horner-stycz2006zad3-f16465.pdf",
+      "mimetype": "application/pdf",
+      "license": "allrightsreserved",
+      "sha256": "112d435b304c96966d189a1b5299b2f753f1f48abb1c66438d5fd6e5849df812"
+    },
+    {
+      "file_id": "16469",
+      "path": "assets/podzielnosc-f16469.pdf",
+      "mimetype": "application/pdf",
+      "license": "allrightsreserved",
+      "sha256": "6962096a9a8def73d3798e4751eac200573c9ee1b7431d02fd39a724042a402e"
+    },
+    {
+      "file_id": "16473",
+      "path": "assets/horner-f16473.cpp",
+      "mimetype": "text/plain",
+      "license": "allrightsreserved",
+      "sha256": "af0d93e0d706fe0b63334bb83e21f65037e9d99ca02f14c0d9c8faadea5c4e66"
+    },
+    {
+      "file_id": "16519",
+      "path": "assets/calka2-1-f16519.png",
+      "mimetype": "image/png",
+      "license": "allrightsreserved",
+      "sha256": "613de0e88ea48b4430992523741808d236df47656d96fa78a2266e3dcefdd7e8"
+    },
+    {
+      "file_id": "16521",
+      "path": "assets/calka3-f16521.png",
+      "mimetype": "image/png",
+      "license": "allrightsreserved",
+      "sha256": "d9f4dcaca944076430c30732ec62e5863ebcbf553292f86239e618260bc9affa"
+    },
+    {
+      "file_id": "16523",
+      "path": "assets/numint15-f16523.gif",
+      "mimetype": "image/gif",
+      "license": "allrightsreserved",
+      "sha256": "8d78f15e5688d9b23b8d4508241ab86c2d3a8754a06821ddfc1a858d2450b7e3"
+    },
+    {
+      "file_id": "16522",
+      "path": "assets/calka4-f16522.png",
+      "mimetype": "image/png",
+      "license": "allrightsreserved",
+      "sha256": "394b0db25918730bb3208ca0b0063531b51b95096eeca9eedef2957ffc1b711f"
+    },
+    {
+      "file_id": "16524",
+      "path": "assets/monte-carlo-1-f16524.gif",
+      "mimetype": "image/gif",
+      "license": "allrightsreserved",
+      "sha256": "af9e5a707736d5f7c62cc29bcb6686c9e2f0b1cc7f12935e97663c9ff5aa4367"
+    },
+    {
+      "file_id": "16507",
+      "path": "assets/maj2006figura-f16507.pdf",
+      "mimetype": "application/pdf",
+      "license": "allrightsreserved",
+      "sha256": "a80ffb9e835433654daed83a7dbdb079993ec0a38c2b547398b28b2e1197c8c0"
+    }
+  ],
+  "skipped": [
+    {
+      "id": "1076",
+      "type": "forum",
+      "title": "Forum aktualności",
+      "reason": "unsupported: interactive activity; no placeholder exported"
+    },
+    {
+      "id": "1077",
+      "type": "forum",
+      "title": "Forum aktualności",
+      "reason": "hidden"
+    },
+    {
+      "id": "1223",
+      "type": "resource",
+      "title": "Podręcznik",
+      "reason": "hidden"
+    },
+    {
+      "id": "1227",
+      "type": "resource",
+      "title": "Zbior zadan z programowania w c++",
+      "reason": "hidden"
+    },
+    {
+      "id": "2348",
+      "type": "quiz",
+      "title": "test v1",
+      "reason": "unsupported: interactive activity; no placeholder exported"
+    },
+    {
+      "id": "1182",
+      "type": "quiz",
+      "title": "test v2",
+      "reason": "hidden"
+    },
+    {
+      "id": "1213",
+      "type": "quiz",
+      "title": "test v3",
+      "reason": "hidden"
+    },
+    {
+      "id": "1694",
+      "type": "quiz",
+      "title": "test v4",
+      "reason": "hidden"
+    },
+    {
+      "id": "1214",
+      "type": "quiz",
+      "title": "test v5",
+      "reason": "hidden"
+    },
+    {
+      "id": "1185",
+      "type": "quiz",
+      "title": "test-poprawiony v6",
+      "reason": "hidden"
+    },
+    {
+      "id": "1370",
+      "type": "quiz",
+      "title": "algorytmy",
+      "reason": "hidden"
+    },
+    {
+      "id": "1239",
+      "type": "resource",
+      "title": "Prezentacja c++",
+      "reason": "hidden"
+    },
+    {
+      "id": "1101",
+      "type": "resource",
+      "title": "sprawdzian - if, wstep do c++ WERSJA 1",
+      "reason": "hidden"
+    },
+    {
+      "id": "1102",
+      "type": "resource",
+      "title": "sprawdzian - if, wstep do c++ WERSJA 2",
+      "reason": "hidden"
+    },
+    {
+      "id": "1228",
+      "type": "page",
+      "title": "Lista 3 - programy \"matematyczne\"",
+      "reason": "hidden"
+    },
+    {
+      "id": "2037",
+      "type": "quiz",
+      "title": "Test na ocenę",
+      "reason": "unsupported: interactive activity; no placeholder exported"
+    },
+    {
+      "id": "2661",
+      "type": "resource",
+      "title": "C++_wstęp_v1",
+      "reason": "hidden"
+    },
+    {
+      "id": "2668",
+      "type": "resource",
+      "title": "C++_wstęp_v2",
+      "reason": "hidden"
+    },
+    {
+      "id": "1118",
+      "type": "quiz",
+      "title": "Pętle - test treningowy",
+      "reason": "unsupported: interactive activity; no placeholder exported"
+    },
+    {
+      "id": "1864",
+      "type": "page",
+      "title": "Zestawy na kartkowke",
+      "reason": "hidden"
+    },
+    {
+      "id": "1129",
+      "type": "resource",
+      "title": "Losowanie - teoria i przykłady",
+      "reason": "hidden"
+    },
+    {
+      "id": "1125",
+      "type": "quiz",
+      "title": "Funkcje - test na ocenę",
+      "reason": "hidden"
+    },
+    {
+      "id": "1126",
+      "type": "resource",
+      "title": "polecenia",
+      "reason": "hidden"
+    },
+    {
+      "id": "2575",
+      "type": "resource",
+      "title": "funkcje_2f_2020",
+      "reason": "hidden"
+    },
+    {
+      "id": "2576",
+      "type": "resource",
+      "title": "funkcje 2f_listopad 2020",
+      "reason": "hidden"
+    },
+    {
+      "id": "2577",
+      "type": "resource",
+      "title": "funkcje_kartkówka",
+      "reason": "hidden"
+    },
+    {
+      "id": "3206",
+      "type": "page",
+      "title": "Zadania - lista 3",
+      "reason": "hidden"
+    },
+    {
+      "id": "1895",
+      "type": "resource",
+      "title": "Tablice znakowe - rozwiązanie",
+      "reason": "hidden"
+    },
+    {
+      "id": "3267",
+      "type": "resource",
+      "title": "rozwiazanie: zamiana pomiędzy systemami pozycyjnymi na 5 sposobów ",
+      "reason": "hidden"
+    },
+    {
+      "id": "3265",
+      "type": "resource",
+      "title": "Zadanie maturalne 1 - szyfr przestawieniowy MOTOR",
+      "reason": "hidden"
+    },
+    {
+      "id": "3273",
+      "type": "resource",
+      "title": "szyfr Vigenera - rozwiazanie 1",
+      "reason": "hidden"
+    },
+    {
+      "id": "3274",
+      "type": "resource",
+      "title": "szyfr Vigenera - rozwiązanie 2",
+      "reason": "hidden"
+    },
+    {
+      "id": "3276",
+      "type": "resource",
+      "title": "palindrom cyfrowy i anagramy rozwiazanie",
+      "reason": "hidden"
+    },
+    {
+      "id": "3316",
+      "type": "resource",
+      "title": "rozwiazanie sprawdzianu ",
+      "reason": "publication review: attachment withheld by import policy"
+    },
+    {
+      "id": "3343",
+      "type": "resource",
+      "title": "Bisekcja - program ",
+      "reason": "hidden"
+    },
+    {
+      "id": "3344",
+      "type": "resource",
+      "title": "Wyszukiwanie binarne program",
+      "reason": "hidden"
+    },
+    {
+      "id": "3361",
+      "type": "resource",
+      "title": "całka - program",
+      "reason": "hidden"
+    },
+    {
+      "id": "2429",
+      "type": "quiz",
+      "title": "pętle_2021",
+      "reason": "hidden"
+    },
+    {
+      "id": "1302",
+      "type": "quiz",
+      "title": "pętle uzupełnianie",
+      "reason": "hidden"
+    },
+    {
+      "id": "1304",
+      "type": "quiz",
+      "title": "1f",
+      "reason": "hidden"
+    },
+    {
+      "id": "1332",
+      "type": "quiz",
+      "title": "1i",
+      "reason": "hidden"
+    },
+    {
+      "id": "1333",
+      "type": "quiz",
+      "title": "1ia",
+      "reason": "hidden"
+    },
+    {
+      "id": "1303",
+      "type": "quiz",
+      "title": "1g",
+      "reason": "hidden"
+    },
+    {
+      "id": "1334",
+      "type": "page",
+      "title": "Sprawdziany praktyka",
+      "reason": "hidden"
+    },
+    {
+      "id": "1336",
+      "type": "quiz",
+      "title": "poprawa",
+      "reason": "hidden"
+    },
+    {
+      "id": "1347",
+      "type": "resource",
+      "title": "poprawa_praktyka_2",
+      "reason": "hidden"
+    },
+    {
+      "id": "2430",
+      "type": "assign",
+      "title": "21.01.2020",
+      "reason": "hidden"
+    },
+    {
+      "id": "2525",
+      "type": "page",
+      "title": "Pętle_poprawa 1i",
+      "reason": "hidden"
+    },
+    {
+      "id": "2545",
+      "type": "resource",
+      "title": "poprawa2",
+      "reason": "hidden"
+    },
+    {
+      "id": "2585",
+      "type": "resource",
+      "title": "Pętle_poprawa",
+      "reason": "hidden"
+    },
+    {
+      "id": "2717",
+      "type": "resource",
+      "title": "1i_2021",
+      "reason": "hidden"
+    },
+    {
+      "id": "2721",
+      "type": "resource",
+      "title": "1f_2021",
+      "reason": "hidden"
+    },
+    {
+      "id": "1936",
+      "type": "page",
+      "title": "Struktury - przykładowy program i lista zadań",
+      "reason": "hidden"
+    },
+    {
+      "id": "2297",
+      "type": "page",
+      "title": "Struktury z funkcjami składowymi",
+      "reason": "hidden"
+    },
+    {
+      "id": "2311",
+      "type": "resource",
+      "title": "klasa prostokat (bez konstrukorow)",
+      "reason": "hidden"
+    },
+    {
+      "id": "2316",
+      "type": "page",
+      "title": "Klasa paczka - tablice, program zachłanny",
+      "reason": "hidden"
+    },
+    {
+      "id": "1138",
+      "type": "page",
+      "title": "Przykładowe zadania PRAKTYCZNE",
+      "reason": "hidden"
+    },
+    {
+      "id": "1937",
+      "type": "page",
+      "title": "Tablice - zadania trudniejsze",
+      "reason": "hidden"
+    },
+    {
+      "id": "1141",
+      "type": "resource",
+      "title": "Przykładowy całoroczny - z wypieraniem zadań",
+      "reason": "hidden"
+    },
+    {
+      "id": "2305",
+      "type": "resource",
+      "title": "Przykładowy całoroczny - FAJNY",
+      "reason": "hidden"
+    },
+    {
+      "id": "1450",
+      "type": "resource",
+      "title": "sprawdzian ostatniej szansy",
+      "reason": "hidden"
+    }
+  ],
+  "unresolved": [
+    {
+      "page": "03-instrukcja-warunkowa-s664/switch-enum-lista-zadan-4-m3105.md",
+      "reference": "$@RESOURCEVIEWBYID*2795@$",
+      "reason": "Target absent from exported course (missing, hidden, restricted, or unsupported)"
+    },
+    {
+      "page": "14-obsluga-plikow-s858/lista-1-pliki-z-jedna-kolumna-m3258.md",
+      "reference": "$@RESOURCEVIEWBYID*2795@$",
+      "reason": "Target absent from exported course (missing, hidden, restricted, or unsupported)"
+    },
+    {
+      "page": "14-obsluga-plikow-s858/lista-1-pliki-z-jedna-kolumna-m3258.md",
+      "reference": "$@RESOURCEVIEWBYID*2795@$",
+      "reason": "Target absent from exported course (missing, hidden, restricted, or unsupported)"
+    },
+    {
+      "page": "14-obsluga-plikow-s858/lista-1-pliki-z-jedna-kolumna-m3258.md",
+      "reference": "$@RESOURCEVIEWBYID*2795@$",
+      "reason": "Target absent from exported course (missing, hidden, restricted, or unsupported)"
+    },
+    {
+      "page": "14-obsluga-plikow-s858/lista-1-pliki-z-jedna-kolumna-m3258.md",
+      "reference": "$@RESOURCEVIEWBYID*2795@$",
+      "reason": "Target absent from exported course (missing, hidden, restricted, or unsupported)"
+    },
+    {
+      "page": "14-obsluga-plikow-s858/lista-1-pliki-z-jedna-kolumna-m3258.md",
+      "reference": "$@RESOURCEVIEWBYID*2795@$",
+      "reason": "Target absent from exported course (missing, hidden, restricted, or unsupported)"
+    },
+    {
+      "page": "14-obsluga-plikow-s858/lista-1-pliki-z-jedna-kolumna-m3258.md",
+      "reference": "$@RESOURCEVIEWBYID*2795@$",
+      "reason": "Target absent from exported course (missing, hidden, restricted, or unsupported)"
+    },
+    {
+      "page": "14-obsluga-plikow-s858/lista-1-pliki-z-jedna-kolumna-m3258.md",
+      "reference": "$@RESOURCEVIEWBYID*2795@$",
+      "reason": "Target absent from exported course (missing, hidden, restricted, or unsupported)"
+    },
+    {
+      "page": "15-klasa-string-s859/lista-2-szyfrowanie-i-systemy-pozycyjne-m3264.md",
+      "reference": "$@PAGEVIEWBYID*1625@$",
+      "reason": "Target absent from exported course (missing, hidden, restricted, or unsupported)"
+    },
+    {
+      "page": "15-klasa-string-s859/lista-3-palindromy-palindromy-na-kodach-ascii-cyfrowe-m3266.md",
+      "reference": "$@RESOURCEVIEWBYID*2201@$",
+      "reason": "Target absent from exported course (missing, hidden, restricted, or unsupported)"
+    },
+    {
+      "page": "15-klasa-string-s859/lista-3-palindromy-palindromy-na-kodach-ascii-cyfrowe-m3266.md",
+      "reference": "$@PAGEVIEWBYID*1625@$",
+      "reason": "Target absent from exported course (missing, hidden, restricted, or unsupported)"
+    }
+  ],
+  "external_images": []
+}

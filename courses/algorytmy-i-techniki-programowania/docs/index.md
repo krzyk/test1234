@@ -1,0 +1,23 @@
+# algorytm i techniki programowania
+
+
+- [WYMAGANIA EDUKACYJNE](00-wymagania-edukacyjne-s661/index.md)
+- [Algorytmika - wprowadzenie](01-algorytmika-wprowadzenie-s662/index.md)
+- [Podstawy programowania w C++](02-podstawy-programowania-w-c-s663/index.md)
+- [Instrukcja warunkowa](03-instrukcja-warunkowa-s664/index.md)
+- [Instrukcje iteracyjne](04-instrukcje-iteracyjne-s670/index.md)
+- [Funkcje - budowanie własnych podprogramów](05-funkcje-budowanie-wlasnych-podprogramow-s666/index.md)
+- [Tablice statyczne](06-tablice-statyczne-s667/index.md)
+- [C++ - zagadnienia teoretyczne](07-c-zagadnienia-teoretyczne-s669/index.md)
+- [Dynamiczna alokacja pamięci](08-dynamiczna-alokacja-pamieci-s855/index.md)
+- [Tablice dwuwymiarowe](09-tablice-dwuwymiarowe-s854/index.md)
+- [Algorytmy na liczbach naturalnych](10-algorytmy-na-liczbach-naturalnych-s864/index.md)
+- [Rekurencja](11-rekurencja-s856/index.md)
+- [Wstęp do programowania obiektowego](12-wstep-do-programowania-obiektowego-s857/index.md)
+- [Kontenery](13-kontenery-s860/index.md)
+- [Obsługa plików](14-obsluga-plikow-s858/index.md)
+- [Klasa string](15-klasa-string-s859/index.md)
+- [Złożoność obliczeniowa](16-zlozonosc-obliczeniowa-s671/index.md)
+- [Algorytmy](17-algorytmy-s861/index.md)
+- [Algorytmy](18-algorytmy-s862/index.md)
+- [Algorytmy - całka numeryczna](19-algorytmy-calka-numeryczna-s863/index.md)

@@ -1,0 +1,222 @@
+# Explicit navigation follows Moodle section numbers and activity sequence.
+[project]
+site_name = "algorytm i techniki programowania"
+site_url = "https://krzyk.github.io/test1234/algorytmy-i-techniki-programowania/"
+docs_dir = "docs"
+site_dir = "site"
+nav = [
+{ "Początek" = "index.md" },
+{ "WYMAGANIA EDUKACYJNE" = [
+{ "Przegląd" = "00-wymagania-edukacyjne-s661/index.md" },
+{ "Wymagania edukacyjne" = "00-wymagania-edukacyjne-s661/wymagania-edukacyjne-m1181.md" },
+{ "bagaż" = "00-wymagania-edukacyjne-s661/bagaz-m3312.md" }
+] },
+{ "Algorytmika - wprowadzenie" = [
+{ "Przegląd" = "01-algorytmika-wprowadzenie-s662/index.md" },
+{ "Wstęp do algorytmiki - teoria" = "01-algorytmika-wprowadzenie-s662/wstep-do-algorytmiki-teoria-m1078.md" },
+{ "Algorytmy liniowe i warunkowe - przykłady" = "01-algorytmika-wprowadzenie-s662/algorytmy-liniowe-i-warunkowe-przyklady-m1079.md" },
+{ "Algorytmy linowe i warunkowe - lista zadań" = "01-algorytmika-wprowadzenie-s662/algorytmy-linowe-i-warunkowe-lista-zadan-m1080.md" },
+{ "Schematy blokowe - ważne uwagi" = "01-algorytmika-wprowadzenie-s662/schematy-blokowe-wazne-uwagi-m1081.md" },
+{ "Algorytmy iteracyjne - przykłady" = "01-algorytmika-wprowadzenie-s662/algorytmy-iteracyjne-przyklady-m1083.md" },
+{ "Algorytmy iteracyjne - lista zadań" = "01-algorytmika-wprowadzenie-s662/algorytmy-iteracyjne-lista-zadan-m1084.md" },
+{ "Pseudokod" = "01-algorytmika-wprowadzenie-s662/pseudokod-m3100.md" },
+{ "Analiza gotowych algorytmów" = "01-algorytmika-wprowadzenie-s662/analiza-gotowych-algorytmow-m1086.md" },
+{ "Powtoka - analiza schematow" = "01-algorytmika-wprowadzenie-s662/powtoka-analiza-schematow-m1087.md" },
+{ "Powtorka - rysowanie schematow" = "01-algorytmika-wprowadzenie-s662/powtorka-rysowanie-schematow-m1088.md" }
+] },
+{ "Podstawy programowania w C++" = [
+{ "Przegląd" = "02-podstawy-programowania-w-c-s663/index.md" },
+{ "program wstępny w C++ -> ściągnij i skompiluj" = "02-podstawy-programowania-w-c-s663/program-wstepny-w-c-sciagnij-i-skompiluj-m2617.md" },
+{ "Język C++ - podstawy" = "02-podstawy-programowania-w-c-s663/jezyk-c-podstawy-m1091.md" },
+{ "Podstawy, typy danych - lista zadań 1" = "02-podstawy-programowania-w-c-s663/podstawy-typy-danych-lista-zadan-1-m1092.md" },
+{ "Operatory - lista zadań 2" = "02-podstawy-programowania-w-c-s663/operatory-lista-zadan-2-m3101.md" },
+{ "Funkcje matematyczne - wykorzystanie  biblioteki" = "02-podstawy-programowania-w-c-s663/funkcje-matematyczne-wykorzystanie-biblioteki-m3133.md" },
+{ "C++11/niestandardowe kontrukcje" = "02-podstawy-programowania-w-c-s663/c-11-niestandardowe-kontrukcje-m1797.md" }
+] },
+{ "Instrukcja warunkowa" = [
+{ "Przegląd" = "03-instrukcja-warunkowa-s664/index.md" },
+{ "Instrukcja warunkowa if - teoria" = "03-instrukcja-warunkowa-s664/instrukcja-warunkowa-if-teoria-m1093.md" },
+{ "if - lista zadań 1 - proste zadania na lekcje" = "03-instrukcja-warunkowa-s664/if-lista-zadan-1-proste-zadania-na-lekcje-m1094.md" },
+{ "if - lista zadań 3" = "03-instrukcja-warunkowa-s664/if-lista-zadan-3-m1095.md" },
+{ "Podsumowanie wiadomości - if, inkrementacja, dekremantacja, wartość logiczna wyrażenia" = "03-instrukcja-warunkowa-s664/podsumowanie-wiadomosci-if-inkrementacja-dekremantacja-wartosc-logiczna-wyrazenia-m1792.md" },
+{ "Przykładowe pytania testowe na część testową sprawdzianu z if" = "03-instrukcja-warunkowa-s664/przykladowe-pytania-testowe-na-czesc-testowa-sprawdzianu-z-if-m1099.md" },
+{ "Instrukcja wyboru switch" = "03-instrukcja-warunkowa-s664/instrukcja-wyboru-switch-m3102.md" },
+{ "Typ wyliczeniowy" = "03-instrukcja-warunkowa-s664/typ-wyliczeniowy-m3103.md" },
+{ "switch, enum - lista zadań 4" = "03-instrukcja-warunkowa-s664/switch-enum-lista-zadan-4-m3105.md" },
+{ "Kody ASCII" = "03-instrukcja-warunkowa-s664/kody-ascii-m3144.md" }
+] },
+{ "Instrukcje iteracyjne" = [
+{ "Przegląd" = "04-instrukcje-iteracyjne-s670/index.md" },
+{ "Pęla while, do-while - teoria" = "04-instrukcje-iteracyjne-s670/pela-while-do-while-teoria-m1105.md" },
+{ "Petla while, do-while - lista 5" = "04-instrukcje-iteracyjne-s670/petla-while-do-while-lista-5-m1106.md" },
+{ "Pętla for - teoria podstawowa" = "04-instrukcje-iteracyjne-s670/petla-for-teoria-podstawowa-m1107.md" },
+{ "Pętla for - lista 6" = "04-instrukcje-iteracyjne-s670/petla-for-lista-6-m1108.md" },
+{ "Instrukcja break, continue" = "04-instrukcje-iteracyjne-s670/instrukcja-break-continue-m3107.md" },
+{ "Pętle różne - lista 7" = "04-instrukcje-iteracyjne-s670/petle-rozne-lista-7-m1109.md" },
+{ "krótki zestaw powtórzeniowy ze wskazówkami" = "04-instrukcje-iteracyjne-s670/krotki-zestaw-powtorzeniowy-ze-wskazowkami-m2695.md" },
+{ "Pętle - przykładowe pytania testowe, analiza kodu" = "04-instrukcje-iteracyjne-s670/petle-przykladowe-pytania-testowe-analiza-kodu-m1110.md" },
+{ "Zadania tekstowe wykorzystujące pętle" = "04-instrukcje-iteracyjne-s670/zadania-tekstowe-wykorzystujace-petle-m2106.md" },
+{ "Pętla w pętli - teoria" = "04-instrukcje-iteracyjne-s670/petla-w-petli-teoria-m1111.md" },
+{ "Pętla w pętli - lista 8" = "04-instrukcje-iteracyjne-s670/petla-w-petli-lista-8-m1112.md" },
+{ "Losowanie - teoria i przykłady" = "04-instrukcje-iteracyjne-s670/losowanie-teoria-i-przyklady-m3313.md" },
+{ "Losowanie - lista 9" = "04-instrukcje-iteracyjne-s670/losowanie-lista-9-m2700.md" }
+] },
+{ "Funkcje - budowanie własnych podprogramów" = [
+{ "Przegląd" = "05-funkcje-budowanie-wlasnych-podprogramow-s666/index.md" },
+{ "Funkcje - teoria" = "05-funkcje-budowanie-wlasnych-podprogramow-s666/funkcje-teoria-m1119.md" },
+{ "Funkcje - krok po kroku z przykładami" = "05-funkcje-budowanie-wlasnych-podprogramow-s666/funkcje-krok-po-kroku-z-przykladami-m1120.md" },
+{ "Funkcje - zadania lista 0" = "05-funkcje-budowanie-wlasnych-podprogramow-s666/funkcje-zadania-lista-0-m2792.md" },
+{ "Podprogramy - zadania 1" = "05-funkcje-budowanie-wlasnych-podprogramow-s666/podprogramy-zadania-1-m1121.md" },
+{ "Podprogramy - zadania 2" = "05-funkcje-budowanie-wlasnych-podprogramow-s666/podprogramy-zadania-2-m1122.md" },
+{ "Podprogramy - zadania 3" = "05-funkcje-budowanie-wlasnych-podprogramow-s666/podprogramy-zadania-3-m1123.md" },
+{ "przygotowanie do testu" = "05-funkcje-budowanie-wlasnych-podprogramow-s666/przygotowanie-do-testu-m1441.md" },
+{ "Teoria funkcje 2 - przeładowanie, funkcje inline" = "05-funkcje-budowanie-wlasnych-podprogramow-s666/teoria-funkcje-2-przeladowanie-funkcje-inline-m3252.md" },
+{ "Funkcje - algorytmy do realizacji na lekcji" = "05-funkcje-budowanie-wlasnych-podprogramow-s666/funkcje-algorytmy-do-realizacji-na-lekcji-m3238.md" }
+] },
+{ "Tablice statyczne" = [
+{ "Przegląd" = "06-tablice-statyczne-s667/index.md" },
+{ "Tablice - teoria" = "06-tablice-statyczne-s667/tablice-teoria-m1127.md" },
+{ "Tablica - lista zadań 1a" = "06-tablice-statyczne-s667/tablica-lista-zadan-1a-m2737.md" },
+{ "Tablice - zadania lista 1" = "06-tablice-statyczne-s667/tablice-zadania-lista-1-m1128.md" },
+{ "Tablice - zadania lista 2" = "06-tablice-statyczne-s667/tablice-zadania-lista-2-m1131.md" },
+{ "Schody" = "06-tablice-statyczne-s667/schody-m3205.md" },
+{ "Przygotowanie do kartkówki z tablic" = "06-tablice-statyczne-s667/przygotowanie-do-kartkowki-z-tablic-m1132.md" },
+{ "Przygotowanie do kartkówki z tablic - rozwiązanie" = "06-tablice-statyczne-s667/przygotowanie-do-kartkowki-z-tablic-rozwiazanie-m1133.md" },
+{ "Tablice - algorytmy do realizacji na lekcji" = "06-tablice-statyczne-s667/tablice-algorytmy-do-realizacji-na-lekcji-m3239.md" }
+] },
+{ "C++ - zagadnienia teoretyczne" = [
+{ "Przegląd" = "07-c-zagadnienia-teoretyczne-s669/index.md" },
+{ "Od pliku źródłowego do wykonywalnego" = "07-c-zagadnienia-teoretyczne-s669/od-pliku-zrodlowego-do-wykonywalnego-m3211.md" },
+{ "Zadania 1" = "07-c-zagadnienia-teoretyczne-s669/zadania-1-m3213.md" },
+{ "Zmienne wskaźnikowe" = "07-c-zagadnienia-teoretyczne-s669/zmienne-wskaznikowe-m3212.md" },
+{ "Zadania 2 (wskaźniki)" = "07-c-zagadnienia-teoretyczne-s669/zadania-2-wskazniki-m3236.md" }
+] },
+{ "Dynamiczna alokacja pamięci" = [
+{ "Przegląd" = "08-dynamiczna-alokacja-pamieci-s855/index.md" },
+{ "Stos a sterta" = "08-dynamiczna-alokacja-pamieci-s855/stos-a-sterta-m3233.md" },
+{ "Zmienne alokowane dynamicznie" = "08-dynamiczna-alokacja-pamieci-s855/zmienne-alokowane-dynamicznie-m3234.md" },
+{ "Tablice dynamiczne" = "08-dynamiczna-alokacja-pamieci-s855/tablice-dynamiczne-m3235.md" }
+] },
+{ "Tablice dwuwymiarowe" = [
+{ "Przegląd" = "09-tablice-dwuwymiarowe-s854/index.md" },
+{ "Teoria" = "09-tablice-dwuwymiarowe-s854/teoria-m3220.md" },
+{ "Lista 1" = "09-tablice-dwuwymiarowe-s854/lista-1-m3222.md" },
+{ "Lista 2" = "09-tablice-dwuwymiarowe-s854/lista-2-m3224.md" },
+{ "Zadanie temperatury" = "09-tablice-dwuwymiarowe-s854/zadanie-temperatury-m3231.md" },
+{ "Zadanie temperatury - tabelka do wczytania" = "09-tablice-dwuwymiarowe-s854/zadanie-temperatury-tabelka-do-wczytania-m3229.md" },
+{ "Zadanie wypłaty - realizacja algorytmu zachlannego" = "09-tablice-dwuwymiarowe-s854/zadanie-wyplaty-realizacja-algorytmu-zachlannego-m3226.md" },
+{ "Zadanie hetman" = "09-tablice-dwuwymiarowe-s854/zadanie-hetman-m3230.md" },
+{ "Zadanie piramida" = "09-tablice-dwuwymiarowe-s854/zadanie-piramida-m3225.md" },
+{ "hetman - rozwiazanie" = "09-tablice-dwuwymiarowe-s854/hetman-rozwiazanie-m3232.md" },
+{ "Przykładowy sprawdzian" = "09-tablice-dwuwymiarowe-s854/przykladowy-sprawdzian-m3297.md" }
+] },
+{ "Algorytmy na liczbach naturalnych" = [
+{ "Przegląd" = "10-algorytmy-na-liczbach-naturalnych-s864/index.md" },
+{ "Dzielniki" = "10-algorytmy-na-liczbach-naturalnych-s864/dzielniki-m3367.md" },
+{ "Liczby doskonale" = "10-algorytmy-na-liczbach-naturalnych-s864/liczby-doskonale-m3370.md" },
+{ "Liczby skojarzone  - dzielniki" = "10-algorytmy-na-liczbach-naturalnych-s864/liczby-skojarzone-dzielniki-m3366.md" },
+{ "Suma cyfr liczby" = "10-algorytmy-na-liczbach-naturalnych-s864/suma-cyfr-liczby-m3369.md" },
+{ "Wesołe liczby" = "10-algorytmy-na-liczbach-naturalnych-s864/wesole-liczby-m3368.md" }
+] },
+{ "Rekurencja" = [
+{ "Przegląd" = "11-rekurencja-s856/index.md" },
+{ "Teoria" = "11-rekurencja-s856/teoria-m3241.md" },
+{ "Analiza funkcji wypisujacych i odwracających znaki" = "11-rekurencja-s856/analiza-funkcji-wypisujacych-i-odwracajacych-znaki-m3294.md" },
+{ "Ciągi" = "11-rekurencja-s856/ciagi-m3242.md" },
+{ "Zadanie 1 - korale" = "11-rekurencja-s856/zadanie-1-korale-m3244.md" },
+{ "Zadanie 2 - lotto" = "11-rekurencja-s856/zadanie-2-lotto-m3245.md" },
+{ "Zadanie 3 - ciąg rekurencyjny (tylko 1.1)" = "11-rekurencja-s856/zadanie-3-ciag-rekurencyjny-tylko-1-1-m3246.md" },
+{ "Zadanie 4 - ciekawe mnożenia (tylko 3.1 i 3.2)" = "11-rekurencja-s856/zadanie-4-ciekawe-mnozenia-tylko-3-1-i-3-2-m3247.md" },
+{ "Zadanie 5 - szybkie potęgowanie" = "11-rekurencja-s856/zadanie-5-szybkie-potegowanie-m3243.md" },
+{ "Zadanie 6 - maturalne, funkcja licz()" = "11-rekurencja-s856/zadanie-6-maturalne-funkcja-licz-m3248.md" }
+] },
+{ "Wstęp do programowania obiektowego" = [
+{ "Przegląd" = "12-wstep-do-programowania-obiektowego-s857/index.md" },
+{ "Teoria, czyli krótka opowieść o tym co to klasa a co obiekt" = "12-wstep-do-programowania-obiektowego-s857/teoria-czyli-krotka-opowiesc-o-tym-co-to-klasa-a-co-obiekt-m3249.md" },
+{ "Przykład 1 - klasa tylko z publicznym dostępem" = "12-wstep-do-programowania-obiektowego-s857/przyklad-1-klasa-tylko-z-publicznym-dostepem-m3250.md" },
+{ "Klasa przypominajka" = "12-wstep-do-programowania-obiektowego-s857/klasa-przypominajka-m3301.md" },
+{ "Przykład 2 - hermetyzacja, konstruktor kopiujący i destruktor" = "12-wstep-do-programowania-obiektowego-s857/przyklad-2-hermetyzacja-konstruktor-kopiujacy-i-destruktor-m3251.md" },
+{ "Przykład 3 - definiowanie funkcji składowych 2 sposób" = "12-wstep-do-programowania-obiektowego-s857/przyklad-3-definiowanie-funkcji-skladowych-2-sposob-m3253.md" },
+{ "Lista 1" = "12-wstep-do-programowania-obiektowego-s857/lista-1-m3254.md" },
+{ "Przykład 4 - statyczny składnik klasy" = "12-wstep-do-programowania-obiektowego-s857/przyklad-4-statyczny-skladnik-klasy-m3261.md" },
+{ "Lista 2" = "12-wstep-do-programowania-obiektowego-s857/lista-2-m3255.md" },
+{ "Lista 3 - zadanie" = "12-wstep-do-programowania-obiektowego-s857/lista-3-zadanie-m3256.md" },
+{ "Podział projektu na 3 pliki" = "12-wstep-do-programowania-obiektowego-s857/podzial-projektu-na-3-pliki-m3302.md" },
+{ "Obiekt jako pole w innej klasie" = "12-wstep-do-programowania-obiektowego-s857/obiekt-jako-pole-w-innej-klasie-m3379.md" },
+{ "zadanie domowe - obiekt jako pole innej klasy" = "12-wstep-do-programowania-obiektowego-s857/zadanie-domowe-obiekt-jako-pole-innej-klasy-m3380.md" }
+] },
+{ "Kontenery" = [
+{ "Przegląd" = "13-kontenery-s860/index.md" },
+{ "vector teoria i ćwiczenia" = "13-kontenery-s860/vector-teoria-i-cwiczenia-m3319.md" },
+{ "Kontenery" = "13-kontenery-s860/kontenery-m3317.md" },
+{ "set teoria i ćwiczenia" = "13-kontenery-s860/set-teoria-i-cwiczenia-m3320.md" },
+{ "map teoria i ćwiczenia" = "13-kontenery-s860/map-teoria-i-cwiczenia-m3321.md" },
+{ "Lista zadań vector/set" = "13-kontenery-s860/lista-zadan-vector-set-m3318.md" }
+] },
+{ "Obsługa plików" = [
+{ "Przegląd" = "14-obsluga-plikow-s858/index.md" },
+{ "Przykład - program wzorcowy" = "14-obsluga-plikow-s858/przyklad-program-wzorcowy-m3257.md" },
+{ "Lista 1 - pliki z jedną kolumną" = "14-obsluga-plikow-s858/lista-1-pliki-z-jedna-kolumna-m3258.md" },
+{ "Lista 2" = "14-obsluga-plikow-s858/lista-2-m3260.md" },
+{ "pliki do listy 2" = "14-obsluga-plikow-s858/pliki-do-listy-2-m3259.md" }
+] },
+{ "Klasa string" = [
+{ "Przegląd" = "15-klasa-string-s859/index.md" },
+{ "Napisy - teoria" = "15-klasa-string-s859/napisy-teoria-m3262.md" },
+{ "Lista 1 - wykorzystanie metod klasy string" = "15-klasa-string-s859/lista-1-wykorzystanie-metod-klasy-string-m3263.md" },
+{ "Przestarzałe tablice znakowe char[] - teoria i zadania" = "15-klasa-string-s859/przestarzale-tablice-znakowe-char-teoria-i-zadania-m1896.md" },
+{ "Szyfrowanie - teoria" = "15-klasa-string-s859/szyfrowanie-teoria-m3271.md" },
+{ "Lista 2 - szyfrowanie i systemy pozycyjne" = "15-klasa-string-s859/lista-2-szyfrowanie-i-systemy-pozycyjne-m3264.md" },
+{ "Zadanie maturalne  - szyfr przestawieniowy iINFORMATYKA" = "15-klasa-string-s859/zadanie-maturalne-szyfr-przestawieniowy-iinformatyka-m3270.md" },
+{ "Lista 3 - palindromy, palindromy na kodach ASCII, cyfrowe" = "15-klasa-string-s859/lista-3-palindromy-palindromy-na-kodach-ascii-cyfrowe-m3266.md" },
+{ "plik do zadania z palindromem na kodach ASCII" = "15-klasa-string-s859/plik-do-zadania-z-palindromem-na-kodach-ascii-m3279.md" },
+{ "zadanie genotyp" = "15-klasa-string-s859/zadanie-genotyp-m3268.md" },
+{ "Lista 4 - anagramy" = "15-klasa-string-s859/lista-4-anagramy-m3272.md" },
+{ "Zadanie maturalne 3 - palindrom z przesunięciem" = "15-klasa-string-s859/zadanie-maturalne-3-palindrom-z-przesunieciem-m3275.md" },
+{ "Zadanie maturalne 4 - Wega" = "15-klasa-string-s859/zadanie-maturalne-4-wega-m3277.md" },
+{ "sygnały - plik do zadania Wega" = "15-klasa-string-s859/sygnaly-plik-do-zadania-wega-m3278.md" },
+{ "Lista 5" = "15-klasa-string-s859/lista-5-m3280.md" },
+{ "pliki TROJKOWE.txt i ABC.txt" = "15-klasa-string-s859/pliki-trojkowe-txt-i-abc-txt-m3282.md" }
+] },
+{ "Złożoność obliczeniowa" = [
+{ "Przegląd" = "16-zlozonosc-obliczeniowa-s671/index.md" },
+{ "Teoria" = "16-zlozonosc-obliczeniowa-s671/teoria-m3329.md" },
+{ "Jak wyznaczyć liczbę operacji dominujących" = "16-zlozonosc-obliczeniowa-s671/jak-wyznaczyc-liczbe-operacji-dominujacych-m3330.md" },
+{ "Lista algorytmów" = "16-zlozonosc-obliczeniowa-s671/lista-algorytmow-m3332.md" },
+{ "Zadania" = "16-zlozonosc-obliczeniowa-s671/zadania-m3331.md" },
+{ "Zadanie maturalne potęgi maj 2008" = "16-zlozonosc-obliczeniowa-s671/zadanie-maturalne-potegi-maj-2008-m3346.md" },
+{ "Zadanie maturalne prostokąty maj 2017" = "16-zlozonosc-obliczeniowa-s671/zadanie-maturalne-prostokaty-maj-2017-m3347.md" },
+{ "Zadanie maturalne liczby osiągalne maj 2012" = "16-zlozonosc-obliczeniowa-s671/zadanie-maturalne-liczby-osiagalne-maj-2012-m3348.md" }
+] },
+{ "Algorytmy" = [
+{ "Przegląd" = "17-algorytmy-s861/index.md" },
+{ "Bisekcja" = "17-algorytmy-s861/bisekcja-m3340.md" },
+{ "Bisekcja - zadanie maturalne" = "17-algorytmy-s861/bisekcja-zadanie-maturalne-m3342.md" },
+{ "Wyszukiwanie binarne" = "17-algorytmy-s861/wyszukiwanie-binarne-m3341.md" }
+] },
+{ "Algorytmy" = [
+{ "Przegląd" = "18-algorytmy-s862/index.md" },
+{ "Schemat Hornera" = "18-algorytmy-s862/schemat-hornera-m3351.md" },
+{ "Zamiana sys liczbowych ze schematem Hornera" = "18-algorytmy-s862/zamiana-sys-liczbowych-ze-schematem-hornera-m3352.md" },
+{ "Podzielność - zad matur" = "18-algorytmy-s862/podzielnosc-zad-matur-m3353.md" },
+{ "Schemat Hornera i zamiana sys liczbowych" = "18-algorytmy-s862/schemat-hornera-i-zamiana-sys-liczbowych-m3354.md" }
+] },
+{ "Algorytmy - całka numeryczna" = [
+{ "Przegląd" = "19-algorytmy-calka-numeryczna-s863/index.md" },
+{ "Całka numeryczna" = "19-algorytmy-calka-numeryczna-s863/calka-numeryczna-m3359.md" },
+{ "zadanie figura - maturalne" = "19-algorytmy-calka-numeryczna-s863/zadanie-figura-maturalne-m3360.md" }
+] }
+]
+
+[project.theme]
+language = "pl"
+font = false
+features = ["navigation.path", "navigation.indexes", "navigation.footer", "navigation.top", "toc.follow", "content.code.copy"]
+
+[project.markdown_extensions]
+"tables" = {}
+"sane_lists" = {}
+"attr_list" = {}
+"md_in_html" = {}
+"pymdownx.superfences" = {}
+"pymdownx.highlight" = {}
