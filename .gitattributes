@@ -1,0 +1,2 @@
+# Preserve original Moodle attachment bytes, including line endings and whitespace.
+courses/*/docs/assets/** -text -whitespace

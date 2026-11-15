@@ -158,3 +158,10 @@ The repository subpath is configured explicitly in each `site_url`; generated le
 
 The migration does not rerun in CI: Markdown becomes the maintained source of truth. Local validations and import limitations are documented in [MIGRATION_REPORT.md](MIGRATION_REPORT.md). Official configuration references: [Zensical navigation](https://zensical.org/docs/setup/navigation/), [language](https://zensical.org/docs/setup/language/), [publishing](https://zensical.org/docs/publish-your-site/), and [GitHub Pages workflows](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages).
 
+
+
+## Troubleshoot GitHub Pages builds
+
+If the log says `GitHub Pages: jekyll` or `Theme: jekyll-theme-primer` and renders files under `courses/.../docs/`, Pages is still using its legacy branch build. Open **Settings → Pages → Build and deployment → Source** and select **GitHub Actions**. Keep the existing `deploy.yml`; no Jekyll workflow template is needed. Then run **Actions → Publish courses to GitHub Pages → Run workflow** on `main` after committing and pushing your fixes. Re-running the old “pages build and deployment” job will repeat the legacy build.
+
+If our workflow reports `Missing/changed attachment`, compare the source download with its hash in `migration.json`. Imported attachments retain the original bytes, including Windows CRLF line endings in some `.txt`/`.cpp` files. `.gitattributes` disables Git text normalization under every course's `docs/assets/` directory. Commit that file together with the affected original attachments; changing attributes alone does not restore bytes already normalized in a prior commit. The original bytes are still present in this working checkout. If working from a fresh checkout of the affected commit, recover those downloads from the original backup through an import to `.migration/reimport` and copy only the affected downloads back. Keep checksum validation enabled.
